@@ -1,0 +1,15 @@
+# miniawe_config.yml
+# github.com/shenjuexiao
+# 20261025
+
+# _config.yml
+title: MINIAWE · 小程序
+description: 让每一次小程序开发都更简单、更可靠。
+
+# 包含的文件（Jekyll 默认会忽略以下划线开头的文件，
+# 但这里列出的文件需要被处理）
+include:
+  - README.md
+  
+# 排除的文件和目录（不参与 Jekyll 构建）
+exclude:
