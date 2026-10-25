@@ -63,7 +63,7 @@ npm run dev
 
 ## 🌐 链接
 
-- 官网：[miniawe.com](https://miniawe.com)
-- GitHub 组织：[github.com/miniawe](https://github.com/miniawe)
+- 🏠 官网：[miniawe.com](https://miniawe.com)
+- 🐙 GitHub 组织：[github.com/miniawe](https://github.com/miniawe)
 
-© 2026 ·  MINIAWE · 小程序
+© 2026 ·  MINIAWE · 小程序  ⚡ 由 GitHub Pages 驱动
